@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahmuberoh.ethanstudios.net/sitemap.xml
